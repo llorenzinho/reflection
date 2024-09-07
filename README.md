@@ -1,6 +1,6 @@
 # Showcasing some C# Reflection Capabilities
 
-This application purpouse is to showcase some *Reflection* and *Attributes* capabilities coming from c# and .NET.
+This application purpose is to showcase some *Reflection* and *Attributes* capabilities coming from c# and .NET.
 
 ## What we want to achieve
 
